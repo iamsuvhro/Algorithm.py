@@ -6,3 +6,5 @@ In mathematics and computer science, an algorithm is an unambiguous specificatio
 
 ## Algorithms :
 <b>>>&nbsp;</b><a href="https://github.com/suvhradipghosh07/Algorithm.py/blob/master/Binary%20Search%20Algorithm.ipynb">Binary Search Algorithm </a>
+
+<b>>>&nbsp;</b><a href="https://github.com/suvhradipghosh07/Algorithm.py/blob/master/Linear%20Search%20Algorithm.ipynb">Linear Search Algorithm</a>
